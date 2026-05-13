@@ -42,6 +42,5 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosmartinez07&show_icons=true&theme=tokyonight&layout=compact" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosmartinez07&theme=tokyonight" />
 </p>
