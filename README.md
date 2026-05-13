@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Passionate about Software Architecture, Systems Security, and University Mathematics.</strong>
+  <strong>Passionate about Software Architecture and Systems Security.</strong>
 </p>
 
 <p align="center">
